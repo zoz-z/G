@@ -8,7 +8,7 @@
 		"python",
 		"telethon"
 	],
-	"repository": "***",
+	"repository": "https://github.com/zoz-z/G.git",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "Your Telegram Bot Token from @BotFather",
