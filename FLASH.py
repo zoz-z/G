@@ -28,7 +28,7 @@ from pyrogram import (
 )
 
 
-ownerID = int("6983481185") #ايدي الادمن 
+ownerID = int("6797410553") #ايدي الادمن 
 api_hash = Config.API_HASH #ايبي هاش 
 api_id = Config.APP_ID #ايبي ايدي
 token = Config.TG_BOT_TOKEN #البوت
